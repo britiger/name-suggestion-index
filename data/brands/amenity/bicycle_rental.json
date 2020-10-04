@@ -166,6 +166,8 @@
         "amenity": "bicycle_rental",
         "brand": "metropolradruhr",
         "brand:wikidata": "Q62104274",
+        "network": "nextbike",
+        "network:wikidata": "Q2351279",
         "name": "metropolradruhr"
       }
     },
@@ -189,6 +191,31 @@
         "brand:wikidata": "Q60966987",
         "brand:wikipedia": "es:MiBici",
         "name": "MiBici"
+      }
+    },
+    {
+      "displayName": "MOBIbike",
+      "id": "mobibike-937152",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "MOBIbike",
+        "network": "nextbike",
+        "network:wikidata": "Q2351279",
+        "name": "MOBIbike"
+      }
+    },
+    {
+      "displayName": "nextbike (generic)",
+      "id": "nextbike-06d22c",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bicycle_rental",
+        "brand": "nextbike",
+        "brand:wikidata": "Q2351279",
+        "network": "nextbike",
+        "network:wikidata": "Q2351279",
+        "name": "nextbike"
       }
     },
     {
@@ -246,16 +273,6 @@
       }
     },
     {
-      "displayName": "SZ-Bike",
-      "id": "szbike-937152",
-      "locationSet": {"include": ["de"]},
-      "tags": {
-        "amenity": "bicycle_rental",
-        "brand": "SZ-Bike",
-        "name": "SZ-Bike"
-      }
-    },
-    {
       "displayName": "Villo!",
       "id": "villo-06d22c",
       "locationSet": {"include": ["001"]},
@@ -272,6 +289,8 @@
       "tags": {
         "amenity": "bicycle_rental",
         "brand": "VRNnextbike",
+        "network": "nextbike",
+        "network:wikidata": "Q2351279",
         "name": "VRNnextbike"
       }
     },
